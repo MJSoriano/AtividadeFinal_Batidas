@@ -1,0 +1,11 @@
+C:\Users\Mateus\source\repos\Batidas\Batidas\bin\Debug\netcoreapp2.1\Batidas.deps.json
+C:\Users\Mateus\source\repos\Batidas\Batidas\bin\Debug\netcoreapp2.1\Batidas.runtimeconfig.json
+C:\Users\Mateus\source\repos\Batidas\Batidas\bin\Debug\netcoreapp2.1\Batidas.runtimeconfig.dev.json
+C:\Users\Mateus\source\repos\Batidas\Batidas\bin\Debug\netcoreapp2.1\Batidas.dll
+C:\Users\Mateus\source\repos\Batidas\Batidas\obj\Debug\netcoreapp2.1\Batidas.csprojAssemblyReference.cache
+C:\Users\Mateus\source\repos\Batidas\Batidas\obj\Debug\netcoreapp2.1\Batidas.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\source\repos\Batidas\Batidas\obj\Debug\netcoreapp2.1\Batidas.AssemblyInfoInputs.cache
+C:\Users\Mateus\source\repos\Batidas\Batidas\obj\Debug\netcoreapp2.1\Batidas.AssemblyInfo.cs
+C:\Users\Mateus\source\repos\Batidas\Batidas\bin\Debug\netcoreapp2.1\Batidas.pdb
+C:\Users\Mateus\source\repos\Batidas\Batidas\obj\Debug\netcoreapp2.1\Batidas.dll
+C:\Users\Mateus\source\repos\Batidas\Batidas\obj\Debug\netcoreapp2.1\Batidas.pdb
